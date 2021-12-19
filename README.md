@@ -2,4 +2,4 @@
 
 live preview of this website 
 
-https://graphica-ait2025.github.io/graphica-overflowHidden/#
+https://graphica-ait2025.github.io/graphica-overflowHidden
