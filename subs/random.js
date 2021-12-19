@@ -8,11 +8,11 @@ function(){
     'subs/games/aim bot/index.html',
     'subs/games/aim bot/index.html',
     'subs/games/aim bot/index.html',
-    'side.html',
-    'side.html',
-    'side.html',
-    'side.html',
-    'side.html'];
+    'subs/games/coin flip/cf_main.html',
+    'subs/games/dinogame/dino_game.html',
+    'subs/entertainment/chat bot/chatbot.html',
+    'subs/entertainment/jokes/index.html',
+    'subs/entertainment/personality/personality.html'];
     let neww = storage[name];
     console.log(neww);
     window.open(neww,'_blank')
