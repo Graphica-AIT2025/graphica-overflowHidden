@@ -58,14 +58,14 @@
     color: white;
     background-color: #006eff;
     margin-left: auto;
-    border-radius: 0 10px 10px 10px ;
+    border-radius:10px 0 10px 10px;
 
 }
 
 .response{
     background-color: rgb(219, 219, 219);
     margin-right: auto;
-    border-radius: 10px 0 10px 10px;
+    border-radius:0 10px 10px 10px ;
 }
 #outer{
     box-shadow: 5px 5px 40px -15px rgb(146, 145, 145);
